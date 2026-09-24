@@ -33,7 +33,8 @@ const projects = [
     title: 'ManganQuest',
     type: 'AI & DATA SCIENCE',
     icon: BrainCircuit,
-    description: 'An AI-powered platform for manganese exploration and production analysis.'
+    description: 'An AI-powered platform for manganese exploration and production analysis.',
+    tags:['AI','Data Science','Streamlit']
 },
 ]
 
