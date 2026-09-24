@@ -28,6 +28,13 @@ const projects = [
     description: 'Developed a Bluetooth-controlled car using Arduino and IoT components, controlled through a mobile application.',
     visual: 'car-visual',
   },
+  {
+    number: '03',
+    title: 'ManganQuest',
+    type: 'AI & DATA SCIENCE',
+    icon: BrainCircuit,
+    description: 'An AI-powered platform for manganese exploration and production analysis.'
+},
 ]
 
 const certifications = [
